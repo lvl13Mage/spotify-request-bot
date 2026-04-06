@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="./docs/static/img/logo-fullcolor-banner.png">
+  <img height="300" src="./docs/static/img/logo-fullcolor-bannerr.png">
 </p>
 
 # spotify-request-bot
