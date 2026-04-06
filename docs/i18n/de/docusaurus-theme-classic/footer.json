@@ -17,7 +17,7 @@
   },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
-    "description": "Die Bezeichnung des Fußzeilen-Links mit der Bezeichnung=Stack Overflow, die auf https://stackoverflow.com/questions/tagged/spotchbot verweist"
+    "description": "Die Bezeichnung des Fußzeilen-Links mit der Bezeichnung=Stack Overflow, die auf https://stackoverflow.com/questions/tagged/spotify-request-bot verweist"
   },
   "link.item.label.Discord": {
     "message": "Discord",
@@ -29,10 +29,10 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "Die Bezeichnung des Fußzeilen-Links mit der Bezeichnung=GitHub, die auf https://github.com/lvl13Mage/spotch-bot verweist"
+    "description": "Die Bezeichnung des Fußzeilen-Links mit der Bezeichnung=GitHub, die auf https://github.com/lvl13Mage/spotify-request-bot verweist"
   },
   "copyright": {
-    "message": "Copyright © 2025 Spotch Bot - von theLvl13Mage",
+    "message": "Copyright © 2025 spotify-request-bot - von theLvl13Mage",
     "description": "Das Copyright in der Fußzeile"
   }
 }

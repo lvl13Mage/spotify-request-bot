@@ -21,7 +21,7 @@ function HomepageHeader() {
       <div className="container">
         <ThemedImage
           sources={logoSources}
-          alt="Spotch Bot Logo"
+          alt="spotify-request-bot Logo"
           className={clsx('hero__logo', styles.heroLogo)}
           style={{
             height: '300px',

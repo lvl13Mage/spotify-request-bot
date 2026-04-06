@@ -329,12 +329,12 @@
     "message": "Track who requested what and when, view song history, and search past requests. With a flexible API, the bot plays nicely with tools like Streamer.bot, allowing full integration into your stream setup."
   },
   "homepage.header.title": {
-    "message": "Welcome to Spotch Bot"
+    "message": "Welcome to spotify-request-bot"
   },
   "homepage.header.subtitle": {
     "message": "The ultimate Twitch and Spotify integration bot"
   },
   "homepage.header.buttonText": {
-    "message": "Spotch Bot Tutorial 🚀"
+    "message": "spotify-request-bot Tutorial 🚀"
   }
 }
