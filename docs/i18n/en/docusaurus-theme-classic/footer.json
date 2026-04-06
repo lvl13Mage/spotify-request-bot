@@ -17,7 +17,7 @@
   },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
-    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/spotchbot"
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/spotify-request-bot"
   },
   "link.item.label.Discord": {
     "message": "Discord",
@@ -29,10 +29,10 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/lvl13Mage/spotch-bot"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/lvl13Mage/spotify-request-bot"
   },
   "copyright": {
-    "message": "Copyright © 2025 Spotch Bot - by theLvl13Mage",
+    "message": "Copyright © 2025 spotify-request-bot - by theLvl13Mage",
     "description": "The footer copyright"
   }
 }

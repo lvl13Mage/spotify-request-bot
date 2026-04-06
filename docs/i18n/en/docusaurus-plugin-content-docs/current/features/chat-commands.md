@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Chat Commands
 
-Spotch Bot provides a variety of chat commands to interact with Twitch and Spotify seamlessly. These commands allow streamers and their moderators to manage song requests, control the song queue, and interact with viewers in real time.
+spotify-request-bot provides a variety of chat commands to interact with Twitch and Spotify seamlessly. These commands allow streamers and their moderators to manage song requests, control the song queue, and interact with viewers in real time.
 
 ## Available Commands
 
@@ -45,7 +45,7 @@ Spotch Bot provides a variety of chat commands to interact with Twitch and Spoti
 ---
 
 ### `!findsong` (Aliases: `!searchsong`, `!fs`)
-**Description**: Searches for a song on Spotify. 
+**Description**: Searches for a song on Spotify.
 :::warning
 **(Not implemented yet)**
 :::
@@ -60,7 +60,7 @@ Spotch Bot provides a variety of chat commands to interact with Twitch and Spoti
 ---
 
 ### `!skip`
-**Description**: Skips the currently playing song.  
+**Description**: Skips the currently playing song.
 **Permission**: Moderators only.
 
 - **Usage**: `!skip`

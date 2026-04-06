@@ -5,12 +5,12 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Spotch Bot',
+  title: 'spotify-request-bot',
   tagline: 'The best Spotify Bot for Twitch!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://spotch.live',
+  url: 'https://spotify-request-bot.live',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lvl13mage', // Usually your GitHub org/user name.
-  projectName: 'spotch-bot', // Usually your repo name.
+  projectName: 'spotify-request-bot', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -80,9 +80,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/logo-fullcolor-banner.png',
     navbar: {
-      title: 'Spotch Bot',
+      title: 'spotify-request-bot',
       logo: {
-        alt: 'Spotch Bot Logo',
+        alt: 'spotify-request-bot Logo',
         src: 'img/logo-notext-fullcolor-small.png',
       },
       items: [
@@ -121,7 +121,7 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/spotchbot',
+              href: 'https://stackoverflow.com/questions/tagged/spotify-request-bot',
             },
             {
               label: 'Discord',
@@ -138,12 +138,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/lvl13Mage/spotch-bot',
+              href: 'https://github.com/lvl13Mage/spotify-request-bot',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Spotch Bot - Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} spotify-request-bot - Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

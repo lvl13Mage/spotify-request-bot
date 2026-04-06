@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Chat-Befehle
 
-Spotch Bot bietet eine Vielzahl von Chat-Befehlen, um nahtlos mit Twitch und Spotify zu interagieren. Diese Befehle ermöglichen es Streamern und ihren Moderatoren, Songanfragen zu verwalten, die Song-Warteschlange zu steuern und in Echtzeit mit Zuschauern zu interagieren.
+spotify-request-bot bietet eine Vielzahl von Chat-Befehlen, um nahtlos mit Twitch und Spotify zu interagieren. Diese Befehle ermöglichen es Streamern und ihren Moderatoren, Songanfragen zu verwalten, die Song-Warteschlange zu steuern und in Echtzeit mit Zuschauern zu interagieren.
 
 ## Verfügbare Befehle
 
@@ -45,7 +45,7 @@ Spotch Bot bietet eine Vielzahl von Chat-Befehlen, um nahtlos mit Twitch und Spo
 ---
 
 ### `!findsong` (Aliase: `!searchsong`, `!fs`)
-**Beschreibung**: Sucht nach einem Song auf Spotify. 
+**Beschreibung**: Sucht nach einem Song auf Spotify.
 :::warning
 **(Noch nicht implementiert)**
 :::
@@ -60,7 +60,7 @@ Spotch Bot bietet eine Vielzahl von Chat-Befehlen, um nahtlos mit Twitch und Spo
 ---
 
 ### `!skip`
-**Beschreibung**: Überspringt den aktuell gespielten Song.  
+**Beschreibung**: Überspringt den aktuell gespielten Song.
 **Berechtigung**: Nur Moderatoren.
 
 - **Verwendung**: `!skip`
